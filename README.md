@@ -1,1 +1,1 @@
-# Retrieve-NTP
+# Retrieve NTP
